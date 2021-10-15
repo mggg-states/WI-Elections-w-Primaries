@@ -12,6 +12,8 @@ The Department of Justice redistricting guidelines: https://legis.wisconsin.gov/
 
 Despite both being ward shapefiles from the same source, the election data file and the 2020 population data file were not a perfect one-to-one match for joining wards.
 
+The ward shapes with elections were prorated by Voting Age Population (VAP) using MAUP to generate the vtds shapefile.
+
 The following adjustments were made to the election wards file:
 - `merge` Chippewa Falls - C 0007 & Chippewa Falls - C 0007S
 - `merge` Milwaukee County Bayside - V 0001 & Bayside - V 001S
