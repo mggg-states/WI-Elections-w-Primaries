@@ -1,4 +1,4 @@
-0WI_DATA readme
+Wisconsin Primary Data Files readme
 
 Demographic data for 2010 and general elections for all years came with the ward geometries shapefile from The Wisconsin Legislature arcgis portal.
 Metadata and notes on their process can be found here, including election data disaggregation: https://data-ltsb.opendata.arcgis.com/datasets/LTSB::2012-2020-election-data-with-2020-wards/about
