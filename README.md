@@ -64,7 +64,7 @@ Column definitions:
 -	`WHITE20` Non-Hispanic White population 2020
 -	`BLACK20` Non-Hispanic Black + Non-Hispanic Black and White population 2020
 -	`HISPANIC20` Hispanic Alone population 2020
-- `ASIAN20` Non-Hispanic Asian + Non-Hispanic Asian and White population 2020
+- 	`ASIAN20` Non-Hispanic Asian + Non-Hispanic Asian and White population 2020
 -	`AMIN20` Non-Hispanic American Indian and Alaska Native + Non-Hispanic American Indian and Alaska Native and White population 2020
 -	`NHPI20` Non-Hispanic Native Hawaiian and Other Pacific Islander + Non-Hispanic Native Hawaiian and Other Pacific Islander and White population 2020
 -	`OTHER20` Population of Non-Hispanic Other Races 2020
@@ -72,7 +72,7 @@ Column definitions:
 -	`WVAP20` Non-Hispanic White population over 18 2020
 -	`BVAP20` Black population over 18 2020
 -	`HVAP20` Hispanic Alone population over 18 2020
--	'ASIANVAP20' Non-Hispanic Asian + Non-Hispanic Asian and White population population over 18 2020
+-	`ASIANVAP20` Non-Hispanic Asian + Non-Hispanic Asian and White population population over 18 2020
 -	`AMINVAP20` Non-Hispanic American Indian and Alaska Native + Non-Hispanic American Indian and Alaska Native and White population population over 18 2020
 -	`NHPIVAP20` on-Hispanic Native Hawaiian and Other Pacific Islander + Non-Hispanic Native Hawaiian and Other Pacific Islander and White population over 18 2020
 -	`OTHERVAP20` Population of Non-Hispanic Other Races over 18 2020
